@@ -1,3 +1,4 @@
+# GitHub: https://github.com/yuanshen-dawang/compnet-lab2
 import socket
 import sys
 
